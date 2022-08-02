@@ -1,8 +1,8 @@
-MACHINE LEARNING PREDICTION PROJECTS
+## MACHINE LEARNING PREDICTION PROJECTS
 
 These projects are all built with python 3.8.5 and Machine Learning tools
 
-INSTALLATION
+#### INSTALLATION
 
 -Install Python
 -Install anaconda
